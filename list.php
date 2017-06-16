@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -10,7 +10,7 @@
     <h1>書き込み一覧ページ</h1>
 
 <?php
-  $name = ''; // ここ書き換え
+  $name = '';// ここ書き換え
   print($name . "さんでログイン中");
  ?>
   </body>
